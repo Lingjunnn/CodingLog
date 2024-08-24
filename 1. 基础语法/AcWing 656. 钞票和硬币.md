@@ -26,7 +26,7 @@ MOEDAS:
 这是`double`类型的精度不够所导致的。详见[讨论区](https://www.acwing.com/problem/content/discussion/content/7028/)。
 最后在处理0.01的输出时不使用函数，另写代码解决了。
 # 题解
-```
+```cpp
 #include <iostream>
 #include <cstdio>
 using namespace std;
