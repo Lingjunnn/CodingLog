@@ -22,9 +22,9 @@ MOEDAS:
 3 moeda(s) de R$ 0.01
 ```
 # 注意点
-第一次编写的时候发现程序没有办法处理0.01的找零，输出一直是0。
-这是`double`类型的精度不够所导致的。详见[讨论区](https://www.acwing.com/problem/content/discussion/content/7028/)。
-最后在处理0.01的输出时不使用函数，另写代码解决了。
+第一次编写的时候发现程序没有办法处理0.01的找零，输出一直是0。<br>
+这是`double`类型的精度不够所导致的。详见[讨论区](https://www.acwing.com/problem/content/discussion/content/7028/)。<br>
+最后在处理0.01的输出时不使用函数，另写代码解决了。<br>
 # 题解
 ```cpp
 #include <iostream>
